@@ -1,16 +1,46 @@
 # saathi
 
-A new Flutter project.
+A small full stack Flutter app connected to Firestore Cloud that allows a user to add savings goals, select a picture for each goal, and view the goal.
 
-## Getting Started
+## Run The App
 
-This project is a starting point for a Flutter application.
+- Install Flutter SDK
+- Install Android SDK
+- Install Dependencies
+- In Terminal, type the command: flutter run
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Screen Recording
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p style="text-align:center">
+
+
+
+</p>
+
+## Screenshots
+
+Home	
+<p style="text-align:center">
+  <img  src="images/HomePage.png">
+</p>
+Single Goal
+<p style="text-align:center">
+  <img  src="images/SingleGoal.png">
+</p>
+Choose Goal Name
+<p style="text-align:center">
+  <img  src="images/ChooseName.png">
+</p>
+Choose Image
+<p style="text-align:center">
+  <img  src="images/ChooseImage.png">
+</p>
+Choose Amount
+<p style="text-align:center">
+  <img  src="images/ChooseAmount.png">
+</p>
+Choose Duration
+<p style="text-align:center">
+  <img  src="images/ChooseDuration.png">
+</p>
